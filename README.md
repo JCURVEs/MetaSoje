@@ -9,6 +9,7 @@
 
 ## How to play
 ![howtoplay_2](https://user-images.githubusercontent.com/97331501/207419875-366433ae-cd43-45f3-a4a1-c2331a8a9e4a.PNG)
+![howtoplay_1](https://user-images.githubusercontent.com/97331501/207419920-b92a8ed0-e9da-451a-9ac0-60896c1f8737.PNG)
 
 ## About Project
 ![difference_1](https://user-images.githubusercontent.com/97331501/207389144-9a2bd9b6-9be2-4155-a4c7-4533e83597f5.jpg)
