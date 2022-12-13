@@ -8,6 +8,7 @@
 유니티를 이용해 소제동을 보존하고자 건축공학도가 모여 만든 프로젝트이다.
 
 ## How to play
+![howtoplay_2](https://user-images.githubusercontent.com/97331501/207419875-366433ae-cd43-45f3-a4a1-c2331a8a9e4a.PNG)
 
 ## About Project
 ![difference_1](https://user-images.githubusercontent.com/97331501/207389144-9a2bd9b6-9be2-4155-a4c7-4533e83597f5.jpg)
