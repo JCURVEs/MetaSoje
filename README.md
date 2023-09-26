@@ -30,6 +30,10 @@
 
 :sparkles:충남대학교 지역사회혁신 교과목 성과발표회 우수상
 
+## Patent application number
+출원번호 : 10-2023-0025921(DAS 접근코드 EB36)
+발명 명칭 : 메타버스를 활용한 역사환경 보존 시스템
+
 ## Members
 ![members](https://user-images.githubusercontent.com/97331501/207389725-23f9bf8e-7948-441b-99c2-b8d5420eb785.png)
 
