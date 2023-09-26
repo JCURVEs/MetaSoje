@@ -32,6 +32,7 @@
 
 ## Patent application number
 출원번호 : 10-2023-0025921(DAS 접근코드 EB36)
+
 발명 명칭 : 메타버스를 활용한 역사환경 보존 시스템
 
 ## Members
